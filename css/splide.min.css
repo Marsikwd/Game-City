@@ -333,15 +333,39 @@
 	top: 0;
 }
 
-@media screen and (max-width: 992px) {
+
+@media screen and (max-width: 953px) {
+	.splide__slide.is-active img{
+		z-index: 100;
+	}
+	.is-next {
+		z-index: 1;
+	}
 
 	.splide {
-	  max-width: 40%;
+		max-width: 45%;
 	}
+
+	.splide__arrow--prev {
+		right: 3em;
+	}
+
+	.splide__arrow--next {
+		right: -3em;
+	}
+}
+
+@media screen and (max-width: 500px) {
+
+	.splide {
+		max-width: 40%;
+	}
+
 	.splide__arrow--prev {
 		left: 0em;
 	}
+
 	.splide__arrow--next {
 		right: 0em;
 	}
- }
+}

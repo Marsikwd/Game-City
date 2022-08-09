@@ -77,19 +77,19 @@ const langArr = {
 	},
 	"daterelase1": {
 		"en": "December 2022",
-		"ua": "Листопад 2022",
+		"ua": "Грудень 2022",
 	},
 	"daterelase2": {
-		"en": "December 2021",
-		"ua": "Листопад 2021",
+		"en": "November 2022",
+		"ua": "Листопад 2022",
 	},
 	"daterelase3": {
-		"en": "December 2020",
-		"ua": "Листопад 2020",
+		"en": "September 2022",
+		"ua": "Вересень 2022",
 	},
 	"daterelase4": {
-		"en": "December 2019",
-		"ua": "Листопад 2019",
+		"en": "December 2023",
+		"ua": "Грудень 2023",
 	},
 	"platforms1": {
 		"en": "Platforms:",

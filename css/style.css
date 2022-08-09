@@ -230,9 +230,6 @@ body::-webkit-scrollbar {
     color: #DAA520;
 }
 
-.closeIcon {
-    display: none;
-}
 
 .menu_list {
     display: flex;
@@ -881,6 +878,7 @@ iframe {
     bottom: 70px;
     right: 70px;
     cursor: pointer;
+    z-index: 10000;
 }
 
 #up::before {
